@@ -10,27 +10,29 @@
 
 ## Roadmap
 
+- [ ] [Gremlin Foundations](https://www.gremlin.com/docs/infrastructure-layer/installation/)
 - [ ] [Gremlin with Docker](#gremlin-with-docker)
 - [ ] [Gremlin with Kubernetes](#kubernetes)
 - [ ] [Gremlin Attacks](#step-2-gremlin-attacks)
 
-## [Gremlin with Docker](https://www.gremlin.com/docs/infrastructure-layer/installation/)
+## Gremlin with Docker
 
 - [Using Docker Intro](https://hub.packtpub.com/gremlin-makes-chaos-engineering-with-docker-easier-with-new-container-discovery-feature/)
-- [Using Docker Reference](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-in-a-docker-container/)
-- [Using Docker Example](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-locally-with-docker-for-mac/)
+- [Using Docker Installation](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-in-a-docker-container/)
+- [Using Docker Experiment](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-locally-with-docker-for-mac/)
 - [Using Docker Video](https://www.youtube.com/watch?v=PcwdZB_blLc)
 - [Using Docker Commands](docker)
 
-## [Gremlin with Kubernetes](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-with-eks/)
+## Gremlin with Kubernetes
 
-- [Using Docker Intro](https://hub.packtpub.com/gremlin-makes-chaos-engineering-with-docker-easier-with-new-container-discovery-feature/)
-- [Using Docker Reference](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-in-a-docker-container/)
-- [Using Docker Example](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-locally-with-docker-for-mac/)
-- [Using Docker Video](https://www.youtube.com/watch?v=PcwdZB_blLc)
-- [Using Docker Commands](https://github.com/yurynino/learning-gremlin-basics/tree/master/exercises/1-installation)
+- [Using Kubernetes Intro]()
+- [Using Kubernetes Reference]()
+- [Using Kubernetes Installation](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-with-eks/)
+- [Using Kubernetes Experiment](https://www.gremlin.com/community/tutorials/how-to-install-and-use-gremlin-with-eks/)
+- [Using Kubernetes Video]()
+- [Using Kubernetes Commands](kubernetes)
 
-## [Gremlin Attacks](https://www.gremlin.com/docs/infrastructure-layer/attacks/#resource-gremlins)
+## Gremlin Attacks
 
 - [Attacks Reference](https://www.gremlin.com/docs/infrastructure-layer/attacks/#resource-gremlins)
 - [Attacks - State](https://www.youtube.com/watch?v=PcwdZB_blLc)
